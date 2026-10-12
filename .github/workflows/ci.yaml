@@ -30,7 +30,7 @@ jobs:
           pip install -r requirements-dev.txt
 
       - name: Run Tests
-        run: pytest -q
+        run:  python -m pytest -q
 
       # AWS Authentication using Access Keys
       - name: Configure AWS Credentials

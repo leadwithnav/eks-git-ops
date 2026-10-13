@@ -6,5 +6,5 @@ resources:
   - service.yaml
 images:
   - name: IMAGE_PLACEHOLDER
-    newName: IMAGE_PLACEHOLDER
-    newTag: initial
+    newName: 962804699607.dkr.ecr.us-west-2.amazonaws.com/eks-demo-app
+    newTag: 5acc2494f609017745f52451675e128b30a89775

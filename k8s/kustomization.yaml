@@ -7,4 +7,4 @@ resources:
 images:
   - name: IMAGE_PLACEHOLDER
     newName: 962804699607.dkr.ecr.us-west-2.amazonaws.com/eks-demo-app
-    newTag: 5acc2494f609017745f52451675e128b30a89775
+    newTag: 9e7b1eb2f26208b4c95d85517a34fb944fd64f48
